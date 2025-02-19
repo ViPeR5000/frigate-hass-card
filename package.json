@@ -25,7 +25,7 @@
     "date-fns": "^2.29.2",
     "embla-carousel": "^7.0.2",
     "embla-carousel-wheel-gestures": "^3.0.0",
-    "home-assistant-js-websocket": "^8.0.0",
+    "home-assistant-js-websocket": "^8.2.0",
     "keycharm": "^0.4.0",
     "lit": "^2.3.1",
     "lodash-es": "^4.17.21",
@@ -40,7 +40,7 @@
     "vis-timeline": "^7.7.0",
     "vis-util": "^5.0.2",
     "xss": "^1.0.14",
-    "zod": "^3.19.0"
+    "zod": "^3.22.3"
   },
   "devDependencies": {
     "@babel/core": "^7.19.0",
